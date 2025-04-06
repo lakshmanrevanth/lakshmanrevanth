@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakshmanrevanth" alt="lakshmanrevanth" /></a> </p>
 
-- 🔭 I’m currently working on [Promissory Note Manager](https://github.com/lakshmanrevanth/NoteMate)
+- 🔭 I’m currently working on [Gym Bro - AI Powered](https://github.com/lakshmanrevanth/Gym-Bro---Ai-Powered)
 
-- 🌱 I’m currently learning **DAA**
+- 🌱 I’m currently Working on both **DSA AND PROJECTS**
 
-- 💬 Ask me about **flutter , firebase and app developement**
+- 💬 Ask me about **flutter , firebase , Supabase, Web developement and app developement**
 
 - 📫 How to reach me **lakshman6668@gmail.com**
 
