@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm R LAKSHMAN REVANTH</h1>
 <h3 align="center">A passionate Software Developer From India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshmanrevanth&label=Profile%20views&color=0e75b6&style=flat" alt="lakshmanrevanth" /> </p>
-
 
 - 🔭 I’m currently working on Play-T transfer music playlist(https://github.com/lakshmanrevanth/PlayT-A-Platform-To-Transfer-Playlists)
 
