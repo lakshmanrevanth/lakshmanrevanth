@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshmanrevanth&label=Profile%20views&color=0e75b6&style=flat" alt="lakshmanrevanth" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakshmanrevanth" alt="lakshmanrevanth" /></a> </p>
 
 - 🔭 I’m currently working on Play-T transfer music playlist(https://github.com/lakshmanrevanth/PlayT-A-Platform-To-Transfer-Playlists)
 
