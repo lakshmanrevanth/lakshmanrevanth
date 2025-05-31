@@ -5,15 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakshmanrevanth" alt="lakshmanrevanth" /></a> </p>
 
-- 🔭 I’m currently working on [Gym Bro - AI Powered](https://github.com/lakshmanrevanth/Gym-Bro---Ai-Powered)
+- 🔭 I’m currently working on Play-T transfer music playlist(https://github.com/lakshmanrevanth/PlayT-A-Platform-To-Transfer-Playlists)
 
-- 🌱 I’m currently Working on both **DSA AND PROJECTS**
+- 💬 Ask me about **flutter , Node JS , Supabase, Web developement and app developement**
 
-- 💬 Ask me about **flutter , firebase , Supabase, Web developement and app developement**
+- 📫 How to reach me **revanth3527@gmail.com**
 
-- 📫 How to reach me **lakshman6668@gmail.com**
-
-- Here's Personal Portfolio **https://personal-portfolio-beryl-nu.vercel.app/**
+- Here's Personal Portfolio **https://laksh-revanth-portfolio.netlify.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
