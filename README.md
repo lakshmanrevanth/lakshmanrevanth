@@ -12,13 +12,6 @@
 
 - Here's Personal Portfolio **https://laksh-revanth-portfolio.netlify.app/**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/r-lakshman-revanth-796040247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/r-lakshman-revanth-796040247/" height="30" width="40" /></a>
-<a href="https://dribbble.com/https://dribbble.com/lakshman666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/lakshman666" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/revanth3527" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/revanth3527" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/revanth3527/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/revanth3527/" height="30" width="40" /></a>
-</p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshmanrevanth&" alt="lakshmanrevanth" /></p>
