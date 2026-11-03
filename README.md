@@ -26,6 +26,8 @@ Outside of code, I follow the stock markets and like building tools around tradi
 
 I'm always happy to talk about agentic AI, app development, or anything worth building.
 📧 revanth3527@gmail.com
+
+
 🌐 https://revv-folio.netlify.app/
 
 
